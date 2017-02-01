@@ -7,4 +7,4 @@ applications:
   domain: aws.ie.a9sapp.eu
   command: go-web
   env:
-    GOPACKAGENAME: github.com/a9s-example/go-web
+    GOPACKAGENAME: github.com/a9s-examples/go-web
